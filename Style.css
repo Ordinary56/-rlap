@@ -1,0 +1,29 @@
+
+.container{
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+    margin-top: 10px;
+    background-color:rgb(227, 235, 251);
+    border-radius: 15px;
+    border: none;
+}
+
+h1{
+    background-color: white;
+}
+
+button{
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+input{
+    margin-top: 10px;
+    border-radius: 3px;
+    
+}
